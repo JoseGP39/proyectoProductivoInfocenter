@@ -1,6 +1,5 @@
 /***************************/
-//carlos Andres Martinez Caro
-//Sena ADSI 2015			
+			
 /***************************/
 //Acerca Página Pop Up
 			var popupAboutStatus = 0;
